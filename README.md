@@ -1,15 +1,17 @@
 # Apple Products Pricing Analysis (2020-2026) 📊
 
-Ye Power BI dashboard Apple products (iPhone, Watch, Mac) ke historical pricing, discount trends, aur stock availability ko analyse karta hai. Data 2020 se lekar 2026 tak ka hai, jisme Amazon aur Flipkart ka comparison dikhaya gaya hai.
+## Project Overview
+This Power BI dashboard analyzes the historical pricing, discount trends, and stock availability of Apple products (including iPhones, Watches, and MacBooks). The dataset spans from 2020 to 2026 and features a comparative analysis between major e-commerce platforms, specifically Amazon and Flipkart.
 
-### 🔍 Key Insights (Maine is data se kya dekha):
-- **Best Discounts:** Amazon aur Flipkart mein se [Yahan us platform ka naam likhein jiska bar chart mein discount zyada aaya] zyada average discount deta hai.
-- **Price Trend:** Time ke sath older models ka price lagatar kam hua hai.
-- **Stock Status:** Sabse zyada 'Out of Stock' [Yahan us product ka naam likhein jo chart me out of stock zyada ho] rehta hai.
+## 🔍 Key Insights
+*   **Platform Discounts:** Between Amazon and Flipkart, **[Insert Platform Name]** consistently offers a higher average discount percentage on Apple products.
+*   **Price Depreciation:** Older product models demonstrate a steady and continuous decline in pricing over time, especially following the launch of newer models.
+*   **Stock Availability:** The **[Insert Product Name or Category]** experiences the highest frequency of "Out of Stock" statuses compared to other items in the dataset.
 
-### 🖼️ Dashboard Preview:
-![Dashboard](dashboard_image.png)
+## 🖼️ Dashboard Preview
+![Dashboard Preview](dashboard_image.png)
 
-### 🛠️ Tools Used:
-- Data Cleaning: Power Query
-- Data Visualization: Power BI
+## 🛠️ Tools & Technologies Used
+*   **Data Cleaning & Transformation:** Power Query
+*   **Data Visualization & Modeling:** Power BI
+*   **Version Control:** Git & GitHub
